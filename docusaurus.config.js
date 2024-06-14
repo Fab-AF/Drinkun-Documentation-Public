@@ -3,12 +3,12 @@ export default {
   tagline:
     "Fast, convenient, and fee-free – the best way to get your drink on.",
   url: "https://Fab-AF.github.io",
-  baseUrl: "/my-publicdocs-site/",
+  baseUrl: "/Drinkun-Documentation-Public/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "FAB-AF", // Usually your GitHub org/user name.
-  projectName: "my-publicdocs-site", // Usually your repo name.
+  projectName: "Drinkun-Documentation-Public", // Usually your repo name.
   trailingSlash: false,
   deploymentBranch: "gh-pages",
 
@@ -20,7 +20,8 @@ export default {
         docs: {
           routeBasePath: "/", // Set the docs at the root
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://github.com/your-org/your-project/edit/main/",
+          editUrl:
+            "https://github.com/FAB-AF/Drinkun-Documentation-Public/edit/main/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -58,7 +59,7 @@ export default {
             label: "Liquor Stores",
           },
           {
-            href: "https://github.com/your-org/your-project",
+            href: "https://github.com/FAB-AF/Drinkun-Documentation-Public",
             label: "GitHub",
             position: "right",
           },
@@ -106,11 +107,11 @@ export default {
             items: [
               {
                 label: "Blog",
-                to: "/blog",
+                to: "/Drinkun-Documentation-Public",
               },
               {
                 label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                href: "https://github.com/FAB-AF/Drinkun-Documentation-Public",
               },
             ],
           },
