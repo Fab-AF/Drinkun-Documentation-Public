@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_publicdocs_site=self.webpackChunkmy_publicdocs_site||[]).push([[5476],{4346:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/Drinkun-Documentation-Public/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
